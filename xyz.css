@@ -1,0 +1,44 @@
+ body {
+   background-color: 
+ }
+ *{
+    margin: 0;
+    padding: 0;
+ }
+ nav{
+   background: rgb(8,138,52);
+background: linear-gradient(0deg, rgba(8,138,52,1) 22%, rgba(0,212,164,1) 63%, rgba(0,209,14,1) 80%); 
+    height: 50px;
+ }
+ label.logo{
+    line-height: 65px;
+    margin-left: 22px;
+    bor
+ }
+li a { text-decoration:none;
+      color:white;
+      cursor:pointer
+ 
+}
+ nav ul {
+    float: right;
+    margin-right: 20px;
+ }
+ nav ul li {
+    display: inline-block;
+    line-height: 65px;
+    margin: 0 65px;
+ }
+ button.find-out{
+    padding:6px;cursor:pointer;
+    
+   }
+   button.find-out:hover {
+    border-color: #0097ff ;
+     background-color: #080067  ;
+    color: #2d1df1 
+   }
+   #search {
+      padding:4px;margin-right:5px;
+     }
+     
